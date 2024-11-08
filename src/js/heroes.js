@@ -1,7 +1,5 @@
 "use strict";
 
-"use strict";
-
 export class Character {
     constructor(name, type, attack, defence) {
         const heroes = [
